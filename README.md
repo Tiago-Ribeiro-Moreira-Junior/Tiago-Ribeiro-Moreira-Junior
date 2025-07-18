@@ -68,7 +68,7 @@ Atualmente, estou em busca da minha primeira oportunidade no mercado de trabalho
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="140" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Tiago-Ribeiro-Moreira-Junior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -76,8 +76,8 @@ Atualmente, estou em busca da minha primeira oportunidade no mercado de trabalho
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="140" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Ribeiro-Moreira-Junior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
